@@ -1,0 +1,11 @@
+div.beni h1{
+    color: red;
+}
+div.beni img{
+    widows: 200px;
+    width: 200px;
+}
+
+div.beni p{
+    color: blue;
+}
